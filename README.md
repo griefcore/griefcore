@@ -10,7 +10,7 @@
   </a>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=griefcore&color=gray&style=plastic" alt=":name" />
+  <img src="https://komarev.com/ghpvc/?username=rocklings&color=gray&style=plastic" alt=":name" />
   <br>
   <br>
 
